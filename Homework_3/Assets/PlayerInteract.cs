@@ -16,6 +16,7 @@ public class PlayerInteract : MonoBehaviour
                     Debug.Log("Interacted with object");
                     Destroy(collider.gameObject);
                     collectedObjects += 1;
+                    UpdateScore.instance.AddPoint();
                     if(collectedObjects >= 5){
                         Destroy(door);
                     }
