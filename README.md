@@ -11,3 +11,4 @@ There are 5 interactable "clues" hidden in the maze that the player must pick up
   - Knife  
   
 When all clues are picked up by clicking "e" on them, the exit to the maze will open up  
+Contains Windows and Mac build
