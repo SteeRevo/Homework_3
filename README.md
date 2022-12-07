@@ -9,4 +9,5 @@ There are 5 interactable "clues" hidden in the maze that the player must pick up
   - Vase
   - Rusted Key
   - Knife  
+  
 When all clues are picked up by clicking "e" on them, the exit to the maze will open up  
